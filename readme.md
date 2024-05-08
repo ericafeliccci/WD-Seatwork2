@@ -6,7 +6,7 @@
 <div align="center">
   <a href="https://github.com/zyx-0314/">
   <!-- TODO: If you want to add logo or banner you can add it here -->
-    <img src="https://png.pngtree.com/png-vector/20220411/ourmid/pngtree-glossy-heart-best-vector-ai-and-png-png-image_4538478.png" alt="Nyebe" width="130" height="100">
+    <img src="https://p16-sign.tiktokcdn-us.com/obj/tos-useast5-p-0068-tx/oI8WTKAFeAIC1OYrAGjMefCskIHkLIVsLpPQcG?x-expires=1715191200&x-signature=dnbh7kVPJK%2Bdhw5DAewsxOzDHA4%3D" alt="Nyebe" width="130" height="100">
   </a>
 <!-- TODO: Change Title to the name of the title of your Project -->
   <h3 align="center">Altair</h3>
