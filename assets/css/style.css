@@ -54,8 +54,12 @@ nav a {
     padding: 0rem 2rem;
 }
 
+.column-left button {
+    
+}
+
 button {
-    padding: 1rem 2rem;
+    padding: 1rem 1rem;
     font-size: 1rem;
     border: none;
     color: aliceblue;
@@ -72,7 +76,7 @@ button:hover {
     display: flex;
     justify-content: center;
     align-items: center;
-    padding: 0rem 2rem;
+    padding: 2rem 2rem;
 }
 
 .hero-image {
