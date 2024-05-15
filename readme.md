@@ -4,9 +4,9 @@
 
 <br />
 <div align="center">
-  <a href="https://github.com/zyx-0314/">
+  <a href="https://github.com/ericafelicci/">
   <!-- TODO: If you want to add logo or banner you can add it here -->
-    <img src="https://p16-sign.tiktokcdn-us.com/obj/tos-useast5-p-0068-tx/oI8WTKAFeAIC1OYrAGjMefCskIHkLIVsLpPQcG?x-expires=1715191200&x-signature=dnbh7kVPJK%2Bdhw5DAewsxOzDHA4%3D" alt="Nyebe" width="130" height="100">
+    <img src="https://art.pixilart.com/d171f7731673f59.png" alt="Gay" width="130" height="130">
   </a>
 <!-- TODO: Change Title to the name of the title of your Project -->
   <h3 align="center">Altair</h3>
@@ -20,7 +20,7 @@
 
 <!-- TODO: Change the zyx-0314 into your github username  -->
 <!-- TODO: Change the WD-Template-Project into the same name of your folder -->
-![](https://visit-counter.vercel.app/counter.png?page=zyx-0314/WD-Template-Project)
+![](https://visit-counter.vercel.app/counter.png?page=ericafelicci/WD-Seatwork)
 
 ---
 
@@ -112,3 +112,5 @@ WD-ProjectName
 | Title | Purpose | Link |
 |-|-|-|
 | Sample Title | Sample purpose would be here like this and this is the example of what it is. | trykolang.com |
+
+
