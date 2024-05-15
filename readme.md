@@ -6,7 +6,7 @@
 <div align="center">
   <a href="https://github.com/ericafelicci/">
   <!-- TODO: If you want to add logo or banner you can add it here -->
-    <img src="https://art.pixilart.com/d171f7731673f59.png" alt="Gay" width="130" height="130">
+    <img src="https://art.pixilart.com/d171f7731673f59.png" alt="Altair" width="130" height="130">
   </a>
 <!-- TODO: Change Title to the name of the title of your Project -->
   <h3 align="center">Altair</h3>
