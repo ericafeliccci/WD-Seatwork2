@@ -6,85 +6,37 @@
 }
 
 nav {
-    height: 80px;
-    background-color: rgb(150, 106, 106);
+    height: 150px;
+    background-color: rgb(19, 15, 31);
     display: flex;
     justify-content: space-between;
     align-items: center;
-    padding: 0rem calc(100vw - 1300px) / 2;
 }
 
 .logo {
-    color: black;
+    color: rgb(250, 234, 234);
     font-size: 1.5rem;
     font-weight: bold;
     font-style: italic;
     padding: 0 2rem;
 }
 
-nav a {
-    text-decoration: none;
-    color: aliceblue;
-    padding: 0 1.5rem;
-}
-
-.hero {
-    background:rgb(17, 16, 27);
-    color: aliceblue;
-}
-
-.hero-container {
-    display: grid;
-    grid-template-columns: 1fr 1fr;
-    height: 95vh;
-    padding: 3rem calc(100vw - 1300px) / 2;
-}
-
-.column-left h1 {
-    margin-bottom: 1rem;
-    font-size: 3rem;
-}
-
-.column-left p {
-    display: flex;
-    flex-direction: column;
-    justify-content: center;
-    align-items: flex-start;
-    color: aliceblue;
-    padding: 0rem 2rem;
-}
-
-.column-left button {
+.logo-image {
+    position: relative;
+    width: 8em;
     
 }
 
-button {
-    padding: 1rem 1rem;
-    font-size: 1rem;
-    border: none;
+nav a {
+    text-decoration: none;
+    font-size: x-large;
     color: aliceblue;
-    background: rgb(99, 16, 16);
-    cursor: pointer;
-    border-radius: 50px;
+    padding: 0 2rem;
+    margin: 5rem;
 }
 
-button:hover {
-    background:rgb(150, 106, 106);
-}
-
-.column-right {
+main {
     display: flex;
-    justify-content: center;
-    align-items: center;
-    padding: 2rem 2rem;
-}
-
-.hero-image {
-    width: 100%;
-}
-
-@media screen and (max-width: 200px) {
-    .hero-container{
-        grid-template-columns: 1fr;
-    }
+    justify-content: space-between;
+    padding: 1fr 1fr 1fr 1fr 1fr;
 }
