@@ -40,3 +40,7 @@ main {
     justify-content: space-between;
     padding: 1fr 1fr 1fr 1fr 1fr;
 }
+
+.side-sections {
+    margin-top: 50px;
+}
