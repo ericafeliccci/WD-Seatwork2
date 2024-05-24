@@ -111,6 +111,6 @@ WD-ProjectName
 <!-- TODO: Add References -->
 | Title | Purpose | Link |
 |-|-|-|
-| Sample Title | Sample purpose would be here like this and this is the example of what it is. | trykolang.com |
+| Strikethrough Hover Effect for Menu | Animated Navigation Bar| https://codepen.io/artyom-ivanov/pen/awyyzv |
 
 
