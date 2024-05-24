@@ -1,0 +1,42 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+nav {
+    height: 150px;
+    background-color: rgb(19, 15, 31);
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.logo {
+    color: rgb(250, 234, 234);
+    font-size: 1.5rem;
+    font-weight: bold;
+    font-style: italic;
+    padding: 0 2rem;
+}
+
+.logo-image {
+    position: relative;
+    width: 8em;
+    
+}
+
+nav a {
+    text-decoration: none;
+    font-size: x-large;
+    color: aliceblue;
+    padding: 0 2rem;
+    margin: 5rem;
+}
+
+main {
+    display: flex;
+    justify-content: space-between;
+    padding: 1fr 1fr 1fr 1fr 1fr;
+}
